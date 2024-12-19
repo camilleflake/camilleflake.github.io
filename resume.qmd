@@ -1,89 +1,53 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Camille Flake
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+(928) 255-7264 · <camilleflake71@gmail.com>
 
+SUMMARY
 
-## Currently
+Hardworking individual with an energetic and responsible approach over five years working in a fast-paced environment. Always seeking ways to take on extra work and assist team members.
 
-Standing on the shoulders of giants
+EDUCATION
 
-### Specialized in
+**Eastern Arizona College** · **Associates in Business Administration** · **Graduated** **2021**
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Brigham Young University-Idaho ·Accounting Major · Expected Graduation Dec 2024**
 
+- Data Analytics Minor
+- Student Accounting Society
 
-### Research interests
+SKILLS  
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Excel
+- Communication
+- Customer Service
+- Time Management
+- My SQL Server
+- VBA
 
+EXPERIENCE
 
-## Education
+**Tax Intern · Fox Peterson ·** **Jan 2024–April 2024**
 
-`1654-1660`
-__The King's School, Grantham.__
+- Did accounting work using quickBooks
+- UltraTax Software
+- Prepared many tax returns
+- Work efficiently with coworkers
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Manufacturer · Precision Trim ·  October 2017–August 2022  · July 2023–August 2023**
 
-- Sizar
+- Effectively communicating and coordinating with coworkers
+- Producing hand-made products for world-wide customer base
+- Used organizational skills to meet productivity requirements
+- Maintained clean, safe working environment
 
-`1667 - death`
-__Trinity College, Cambridge__
+**Volunteer · Shepherd’s Kitchen Food Bank · June 2018-August 2021**
 
-- Fellow
+- Distribution of food to community members in need
+- Organized store and food distribution
+- Communicated with customers
+- Worked efficiently with other volunteers
 
+**Volunteer · Elections · 2018-2020**
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Checked identifications
+- Communicated with customers
